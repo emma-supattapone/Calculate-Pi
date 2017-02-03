@@ -1,6 +1,6 @@
 """
 calculatepi.py
-Author: <your name here>
+Author: Emma Supattapone
 Credit: <list sources used, if any>
 Assignment:
 
@@ -22,5 +22,7 @@ Note: remember that the printed value of pi will be an estimate!
 
 """
 
+terms = input("I will estimate pi. How many terms should I use?")
+decimals = input("How many decimal places should I use in the result?")
 
 # Delete later: pi: 3.1415926535897932384
