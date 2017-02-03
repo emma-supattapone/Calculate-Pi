@@ -17,7 +17,7 @@ I will estimate pi. How many terms should I use? 100
 How many decimal places should I use in the result? 7
 The approximate value of pi is 3.1315929
 
-
+ 
 Note: remember that the printed value of pi will be an estimate!
 
 """
